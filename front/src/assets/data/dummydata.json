@@ -1,0 +1,142 @@
+[
+    {
+        "reg_id": 1,
+        "comment": "간단한 설명1",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0001",
+        "company_no": "111-1111-1111",
+        "info_type": "명소",
+        "nickname": "이름1",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 2,
+        "comment": "간단한 설명2",
+        "addr": "경상남도 진주시",
+        "phone": "010-0000-0002",
+        "company_no": "111-1111-1112",
+        "info_type": "카페",
+        "nickname": "이름2",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 3,
+        "comment": "간단한 설명3",
+        "addr": "경상남도 마산시",
+        "phone": "010-0000-0003",
+        "company_no": "111-1111-1113",
+        "info_type": "놀거리",
+        "nickname": "이름3",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 4,
+        "comment": "간단한 설명4",
+        "addr": "경상남도 양산시",
+        "phone": "010-0000-0004",
+        "company_no": "111-1111-1114",
+        "info_type": "음식점",
+        "nickname": "이름4",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 5,
+        "comment": "간단한 설명5",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0005",
+        "company_no": "111-1111-1115",
+        "info_type": "명소",
+        "nickname": "이름5",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 6,
+        "comment": "간단한 설명6",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0006",
+        "company_no": "111-1111-1116",
+        "info_type": "카페",
+        "nickname": "이름6",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 7,
+        "comment": "간단한 설명7",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0007",
+        "company_no": "111-1111-1117",
+        "info_type": "놀거리",
+        "nickname": "이름7",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 8,
+        "comment": "간단한 설명8",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0008",
+        "company_no": "111-1111-1118",
+        "info_type": "음식점",
+        "nickname": "이름8",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 9,
+        "comment": "간단한 설명9",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0009",
+        "company_no": "111-1111-1119",
+        "info_type": "명소",
+        "nickname": "이름9",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 10,
+        "comment": "간단한 설명10",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0010",
+        "company_no": "111-1111-1120",
+        "info_type": "카페",
+        "nickname": "이름10",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 11,
+        "comment": "간단한 설명11",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0010",
+        "company_no": "111-1111-1120",
+        "info_type": "명소",
+        "nickname": "이름11",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 12,
+        "comment": "간단한 설명12",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0010",
+        "company_no": "111-1111-1120",
+        "info_type": "명소",
+        "nickname": "이름12",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 13,
+        "comment": "간단한 설명13",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0010",
+        "company_no": "111-1111-1120",
+        "info_type": "명소",
+        "nickname": "이름13",
+        "rating": 4.5
+    },
+    {
+        "reg_id": 14,
+        "comment": "간단한 설명14",
+        "addr": "경상남도 창원시",
+        "phone": "010-0000-0010",
+        "company_no": "111-1111-1120",
+        "info_type": "명소",
+        "nickname": "이름14",
+        "rating": 4.5
+    }
+]

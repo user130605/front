@@ -1,0 +1,38 @@
+/* ModifyPage.css */
+
+/* 전체 페이지 스타일 */
+.Container {
+    margin-top: 20px;
+  }
+
+
+  
+  /* Form 스타일 */
+  Form {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  /* Label 스타일 */
+  Form.Label {
+    font-weight: bold;
+  }
+  
+  /* Input, Select, Textarea 스타일 */
+  Form.Control {
+    margin-bottom: 15px;
+  }
+  
+  /* Button 스타일 */
+  Button {
+    background-color: #45a049;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  Button:hover {
+    background-color: #45a049;
+  }
+  
